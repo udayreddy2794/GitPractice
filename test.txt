@@ -1,0 +1,14 @@
+Hi, My name is  Uday Reddy I am having 7 years of experience. Throughout my career, I have worked on many tools and technologies related to Java.
+
+Like I have implemented restful web services using Spring boot, spring data, spring AOP, and Spring security.
+
+I Also worked on hibernate and Sql and No-Sql Databases like MongoDB and Postgres.
+
+I have also experience in messaging brokers like Kafka.
+
+Also, I have experience working on javascript and Jquery, HTML, CSS,and Angular.
+
+I have also worked on CI/CD process and worked on the GitLab pipeline also dockerized our application and deployed the same on AWS.
+
+My roles and responsibilities include designing and implementing features end to end with test cases. Also, I participate in code review, sprint planning, sprint grooming, sprint retrospective.
+I am currently working at Cognizant as senior Software Engineer. I am involved in end to end development from frontend till backend micro services development including database work.
