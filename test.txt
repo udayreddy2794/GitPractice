@@ -12,3 +12,6 @@ I have also worked on CI/CD process and worked on the GitLab pipeline also docke
 
 My roles and responsibilities include designing and implementing features end to end with test cases. Also, I participate in code review, sprint planning, sprint grooming, sprint retrospective.
 I am currently working at Cognizant as senior Software Engineer. I am involved in end to end development from frontend till backend micro services development including database work.
+
+
+I LOVE YOU
